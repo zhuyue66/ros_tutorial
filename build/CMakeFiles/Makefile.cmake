@@ -22,6 +22,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/zhuda/catkin_ws/src/CMakeLists.txt"
   "/home/zhuda/catkin_ws/src/beginner_tutorials/CMakeLists.txt"
   "/home/zhuda/catkin_ws/src/beginner_tutorials/package.xml"
+  "/home/zhuda/catkin_ws/src/beginner_tutorials/scripts/add_two_ints_client.py"
+  "/home/zhuda/catkin_ws/src/beginner_tutorials/scripts/add_two_ints_server.py"
   "/home/zhuda/catkin_ws/src/beginner_tutorials/scripts/listener.py"
   "/home/zhuda/catkin_ws/src/beginner_tutorials/scripts/talker.py"
   "/opt/ros/noetic/share/catkin/cmake/all.cmake"
